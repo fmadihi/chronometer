@@ -1,4 +1,4 @@
-
+//start code
 $(document).ready(function () {
     /*let hour = Number(document.getElementById("hour").innerText);
     let minute = Number(document.getElementById("minute").innerText);
