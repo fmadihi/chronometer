@@ -49,3 +49,4 @@ $(document).ready(function () {
     }
     console.log(typeof hour, minute, second, milisecond);
 })
+//finished
