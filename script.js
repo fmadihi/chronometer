@@ -50,3 +50,4 @@ $(document).ready(function () {
     console.log(typeof hour, minute, second, milisecond);
 })
 //Fatemeh Madihi
+alert
